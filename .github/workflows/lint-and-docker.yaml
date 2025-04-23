@@ -41,5 +41,5 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: artanebibi/githubActions
+          tags: artanebibi/github-actions
   
